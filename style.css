@@ -4,6 +4,11 @@ body{
 
 h1 {
 	font-family: Courier;
+	border: 2px solid black;
+	text-align: center;
+	margin: 10px;
+	padding: 10px;
+
 
 }
 
