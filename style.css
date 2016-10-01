@@ -1,5 +1,5 @@
 body{
-
+text-align: center;
 }
 
 h1 {
@@ -37,6 +37,19 @@ text-align: center;
 
 }
 
+#pageheader{
+color:brown;
+
+}
+
+ a:visited{
+	color: coral;
+}
+
+a:hover{
+color: green;
+}
+
 @media only screen and (max-width: 500px) {
     body {
        text-align: center;
@@ -46,4 +59,5 @@ text-align: center;
     img {
     	max-width: 100%;
     }
+
 }
