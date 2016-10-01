@@ -58,6 +58,8 @@ color: green;
     body {
        text-align: center;
        font-size: .8em;
+       background-size: 400px 860px;
+	   background-repeat: no-repeat;
     }
 
     img {
