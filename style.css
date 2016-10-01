@@ -1,5 +1,8 @@
 body{
 text-align: center;
+background-image: url("http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/06/youtube-gaming-feat-img.png");
+background-size: 880px 760px;
+background-repeat: no-repeat;
 }
 
 h1 {
@@ -49,6 +52,7 @@ color:brown;
 a:hover{
 color: green;
 }
+
 
 @media only screen and (max-width: 500px) {
     body {
